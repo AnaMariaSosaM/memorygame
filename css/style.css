@@ -1,0 +1,58 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-color: #00ffae;
+	width: 100%;
+	text-align: right;
+	margin: -20px 0 0 0;
+	padding-right: 20px;
+	color: white;
+	height: 43px;
+}
+.square{
+	width: 100px;
+	height: 100px;
+	background: #000;
+	padding: 10px 10px;
+	float: left;
+	border-radius: 50%;
+	display: block;
+	margin: 5px 7px auto;
+}
+.squares{
+	width: 480px;
+	height: 480px;
+	margin: auto;
+
+}
+.neverHidden{
+	display: block !important;
+	visibility: visible !important;
+}
+.puntaje{
+	margin: 11px;
+}
+.puntos{
+	font-size: 32px;
+	margin: -46px 0 0 189px;
+	color: darkorchid;
+}
+.messages{
+	text-align: center;
+}
+.puntos2{
+	margin: -41px 0 0 0;
+}
+.ganador{
+	text-align: center;
+	color: #00d8ff;
+}
+.glyphicon-heart{
+	color: red;
+}
+.jugar{
+	text-align: center;
+	margin-left: 132px;
+}
